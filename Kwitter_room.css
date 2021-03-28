@@ -1,0 +1,20 @@
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+body
+{
+	background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+#add_room
+{
+	font-style: italic;
+	background-color: white;
+	font-size: large;
+	width: 150px;
+	height: 50px;
+	border-radius:20px;
+}
